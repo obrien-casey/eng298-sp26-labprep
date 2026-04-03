@@ -1,4 +1,4 @@
-# 👋 Welcome to Your First Commit!
+# 👋 Welcome!
 
 This file is part of the **Module 7: Pre-Class Lab Prep: Introduction to GitHub and Codespaces** activity.  
 You'll use it to practice editing a file, saving your work, and committing changes to the repository.
